@@ -35,8 +35,6 @@ Desenvolvedora front-end com experiência em tecnologias como React, JavaScript/
 - Criação de landing pages com HTML, CSS, JavaScript e WordPress.
 - Desenvolvimento de protótipos e materiais gráficos para campanhas de marketing digital.
 
----
-
 ## Formação Acadêmica
 
 ### **Estácio, Fortaleza**  
