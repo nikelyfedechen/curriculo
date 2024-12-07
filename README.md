@@ -11,7 +11,7 @@ Desenvolvedora front-end com experiência em tecnologias como React, JavaScript/
 
 ### **Unicred do Brasil, Porto Alegre, RS**  
 #### Desenvolvedora Web Pleno  
-*Junho de 2024 – Presente*
+*Novembro de 2023 – Presente*
 - Atuação no time de Design de Produto, com foco no desenvolvimento de Design System web.
 - Experiência no desenvolvimento de componentes com React, TypeScript e MUI, implementando testes unitários com Jest e Testing Library, e utilizando Storybook para documentação.
 - Colaboração com equipes multidisciplinares, incluindo designers, desenvolvedores back-end e stakeholders.
